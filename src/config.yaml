@@ -1,0 +1,7 @@
+data_dir: "/home/jupyter-denisova2/microbiome/whole_data/vdWGS_microbiom"
+output_dir: "/home/denisova/micro"
+tax_levels:
+  - order
+  - family
+  - genus
+  - species
